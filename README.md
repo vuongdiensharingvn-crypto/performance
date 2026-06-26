@@ -257,9 +257,10 @@ You can also invoke skills directly:
 ## Skill Categories
 
 ### Conversion Optimization
-- `cro` - Pages and forms
+- - `cro` - Pages and forms
 - `signup` - Registration flows
 - `onboarding` - Post-signup activation
+- `automation-funnel` - Automated conversion funnels and behavioral trigger workflows
 - `popups` - Modals and overlays
 - `paywalls` - In-app upgrade moments
 
@@ -282,8 +283,9 @@ You can also invoke skills directly:
 ### Paid & Distribution
 - `ads` - Google, Meta, LinkedIn ad campaigns
 - `ad-creative` - Bulk ad creative generation and iteration
+- `media-buying` - Budget allocation, media planning, and ROAS optimization
 - `social` - Social media scheduling and strategy
-
+  
 ### Measurement & Testing
 - `analytics` - Event tracking setup
 - `ab-testing` - Experiment design
