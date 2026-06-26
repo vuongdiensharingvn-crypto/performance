@@ -15,9 +15,18 @@ AI Growth Engineering & RevOps Consulting (Dịch vụ tư vấn và cấu hình
 **Product type:**
 Done-for-you Service (Dịch vụ triển khai trọn gói) + B2B Retainer.
 
-**Business model:**
-* **Gói Setup Sprint (Front-end):** 15.000.000đ - 25.000.000đ (Triển khai, bàn giao và đào tạo vận hành trong 2-3 tuần).
-* **Gói Retainer (Backend):** 6.000.000đ - 12.000.000đ/tháng (Bảo trì, tối ưu kịch bản, update prompt và tracking định kỳ).
+## Business model & Pricing Strategy
+*Chúng tôi không bán gói dịch vụ cố định; chúng tôi xây dựng giải pháp theo nhu cầu.*
+
+* **Quy trình báo giá:**
+  1. **Khám phá (Audit):** Khách hàng đăng ký buổi "Workflow Audit" 30 phút để xác định 3 điểm nghẽn lớn nhất trong hệ thống hiện tại.
+  2. **Đề xuất (Action Plan):** Sau buổi Audit, chúng tôi gửi bản Action Plan chi tiết, phân tích rõ phạm vi công việc, khối lượng automation, và cấu trúc hệ thống cần triển khai.
+  3. **Đầu tư (Investment):** Báo giá cuối cùng dựa trên phạm vi hệ thống (scope) và mục tiêu tăng trưởng (ROI) của khách hàng.
+
+* **Vai trò của AI Agent:** 
+  - KHÔNG báo giá cụ thể khi khách hàng hỏi. 
+  - MỤC TIÊU DUY NHẤT: Thuyết phục khách hàng thấy được giá trị của buổi "Workflow Audit" và hướng dẫn họ đặt lịch hẹn qua Calendly.
+  - LUÔN hướng khách hàng về việc: "Mỗi hệ thống là duy nhất, cần review workflow hiện tại mới có thể đưa ra giải pháp và mức đầu tư phù hợp nhất cho thương hiệu của bạn."
 
 ## Target Audience
 **Target companies:**
